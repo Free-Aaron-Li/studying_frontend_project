@@ -1,0 +1,53 @@
+Date : 2022-03-09 20:02:46
+Directory : /home/Aaron-Li/FrontEnd
+Total : 18 files,  189 codes, 41 comments, 67 blanks, all 297 lines
+
+Languages
++----------------------+------------+------------+------------+------------+------------+
+| language             | files      | code       | comment    | blank      | total      |
++----------------------+------------+------------+------------+------------+------------+
+| source.markdown.math |          8 |        120 |          0 |         52 |        172 |
+| HTML                 |          8 |         67 |         41 |         15 |        123 |
+| JSON                 |          2 |          2 |          0 |          0 |          2 |
++----------------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                       | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                          |         18 |        189 |         41 |         67 |        297 |
+| .VSCodeCounter                                                             |         10 |        122 |          0 |         52 |        174 |
+| .VSCodeCounter/2022-03-08_01-18-51                                         |          5 |         61 |          0 |         26 |         87 |
+| .VSCodeCounter/2022-03-08_01-19-43                                         |          5 |         61 |          0 |         26 |         87 |
+| CSSProject                                                                 |          3 |         64 |          6 |          3 |         73 |
+| CSSProject/Introduction                                                    |          2 |         24 |          6 |          1 |         31 |
+| CSSProject/Selector                                                        |          1 |         40 |          0 |          2 |         42 |
+| CSSProject/Selector/commonlyUsed                                           |          1 |         40 |          0 |          2 |         42 |
+| html5Project                                                               |          5 |          3 |         35 |         12 |         50 |
+| html5Project/Introduction                                                  |          5 |          3 |         35 |         12 |         50 |
++----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------+----------------------+------------+------------+------------+------------+
+| filename                                                                   | language             | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------+----------------------+------------+------------+------------+------------+
+| /home/Aaron-Li/FrontEnd/.VSCodeCounter/2022-03-08_01-18-51/details.md      | source.markdown.math |         20 |          0 |          6 |         26 |
+| /home/Aaron-Li/FrontEnd/.VSCodeCounter/2022-03-08_01-18-51/diff-details.md | source.markdown.math |          9 |          0 |          6 |         15 |
+| /home/Aaron-Li/FrontEnd/.VSCodeCounter/2022-03-08_01-18-51/diff.md         | source.markdown.math |         12 |          0 |          7 |         19 |
+| /home/Aaron-Li/FrontEnd/.VSCodeCounter/2022-03-08_01-18-51/results.json    | JSON                 |          1 |          0 |          0 |          1 |
+| /home/Aaron-Li/FrontEnd/.VSCodeCounter/2022-03-08_01-18-51/results.md      | source.markdown.math |         19 |          0 |          7 |         26 |
+| /home/Aaron-Li/FrontEnd/.VSCodeCounter/2022-03-08_01-19-43/details.md      | source.markdown.math |         20 |          0 |          6 |         26 |
+| /home/Aaron-Li/FrontEnd/.VSCodeCounter/2022-03-08_01-19-43/diff-details.md | source.markdown.math |          9 |          0 |          6 |         15 |
+| /home/Aaron-Li/FrontEnd/.VSCodeCounter/2022-03-08_01-19-43/diff.md         | source.markdown.math |         12 |          0 |          7 |         19 |
+| /home/Aaron-Li/FrontEnd/.VSCodeCounter/2022-03-08_01-19-43/results.json    | JSON                 |          1 |          0 |          0 |          1 |
+| /home/Aaron-Li/FrontEnd/.VSCodeCounter/2022-03-08_01-19-43/results.md      | source.markdown.math |         19 |          0 |          7 |         26 |
+| /home/Aaron-Li/FrontEnd/CSSProject/Introduction/CSSGrammar.html            | HTML                 |         23 |          3 |          1 |         27 |
+| /home/Aaron-Li/FrontEnd/CSSProject/Introduction/CSSIntroduction.html       | HTML                 |          1 |          3 |          0 |          4 |
+| /home/Aaron-Li/FrontEnd/CSSProject/Selector/commonlyUsed/01.html           | HTML                 |         40 |          0 |          2 |         42 |
+| /home/Aaron-Li/FrontEnd/html5Project/Introduction/HyperlinkTest.html       | HTML                 |          0 |          7 |          2 |          9 |
+| /home/Aaron-Li/FrontEnd/html5Project/Introduction/InlineFrame.html         | HTML                 |          0 |          7 |          3 |         10 |
+| /home/Aaron-Li/FrontEnd/html5Project/Introduction/Photo.html               | HTML                 |          3 |          7 |          2 |         12 |
+| /home/Aaron-Li/FrontEnd/html5Project/Introduction/Semantization.html       | HTML                 |          0 |          7 |          2 |          9 |
+| /home/Aaron-Li/FrontEnd/html5Project/Introduction/semantic.html            | HTML                 |          0 |          7 |          3 |         10 |
+| Total                                                                      |                      |        189 |         41 |         67 |        297 |
++----------------------------------------------------------------------------+----------------------+------------+------------+------------+------------+
